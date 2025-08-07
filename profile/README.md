@@ -1,1 +1,6 @@
-![logo](https://github.com/KitsuneHost/.github/assets/67358250/b2e90b32-31dc-46c8-bf16-91c1b5120461)
+![image](https://github.com/user-attachments/assets/094173a5-35c2-4895-9388-6d65fe1c120f)
+<h1 align="center">Kitsune Host</h1>
+<h3 align="center">Infrastructure you can fall back on</h3>
+
+---
+
